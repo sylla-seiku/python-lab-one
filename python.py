@@ -1,9 +1,20 @@
-#learning about inputs and expressions
-name = input('what is your name? ')
-color = input('what is your favouritr color? ')
-print(name + ' likes ' + color)
+#learning type conversion
+#weight_lbs = input('Weight (lbs): ')
+#weight_kg = int(weight_lbs) * 0.45
+#print(weight_kg)
 
-#below here i learned about using diffrent variables in a code.
+#birth_year = input('Birth year: ')
+#print(type(birth_year))
+#age = 2023 - int(birth_year)
+#print(type(age))
+#print(age)
+
+#learning about inputs and expressions
+#name = input('what is your name? ')
+#color = input('what is your favouritr color? ')
+#print(name + ' likes ' + color)
+
+#below i learned about using diffrent variables in a code.
 #full_name = 'Seiku Sillah'
 #age = 30
 #is_new = True
