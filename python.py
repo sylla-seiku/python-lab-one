@@ -1,7 +1,14 @@
-full_name = 'Seiku Sillah'
-age = 30
-is_new = True
+#learning about inputs and expressions
+name = input('what is your name? ')
+color = input('what is your favouritr color? ')
+print(name + ' likes ' + color)
 
+#below here i learned about using diffrent variables in a code.
+#full_name = 'Seiku Sillah'
+#age = 30
+#is_new = True
+
+#below here i learned about variables
 #price = 10 #in programing this number is known as an interger
 #rating = 4.9 #in programing this number is known as a float. and the 'rating part is known as a variable.
 #name = 'Seiku' #in programing this here 'Seiku' is known as a strig
