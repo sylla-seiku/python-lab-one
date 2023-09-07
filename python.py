@@ -1,7 +1,15 @@
+#learning formated strings
+first = 'Seiku'
+last = 'Sillah'
+message = first + ' [' + last + '] is a coder' #this a concatenation string its harad to visualize.
+msg = f'{first} [{last}] is a coder' #this is a formated string much easire to visualize.
+print(msg)
+
+
 #learning about strings.
-course = 'Python for "Beginners"'
-another = course[:]
-print(another)
+#course = 'Python for "Beginners"'
+#another = course[:]
+#print(another)
 
 #learning type conversion
 #weight_lbs = input('Weight (lbs): ')
