@@ -1,3 +1,8 @@
+#learning about strings.
+course = 'Python for "Beginners"'
+another = course[:]
+print(another)
+
 #learning type conversion
 #weight_lbs = input('Weight (lbs): ')
 #weight_kg = int(weight_lbs) * 0.45
