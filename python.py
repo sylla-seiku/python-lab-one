@@ -1,15 +1,26 @@
+#Learning Math function
+import math
+print(math.ceil(2.9))
+print(math.floor(2.9))
+# to learn more about this I'll look into "Python 3 math module"
+x = 2.9
+print(round(x)) # this rounds the number
+print(abs(-2.9)) # "abs" Absolute always returns a positive number.
+
+
+
 # Learning Operator Precedence
-x = 10 + 3 * 2
-print(x)
+#x = 10 + 3 * 2
+#print(x)
 #Below is the order of operations.
 #parenthesis alwas takes priority
 #exponentiation 2 ** 3
 #multiplication or division
 #addition or subtraction
-x = 10 + 3 * 2 ** 2
-print(x)
-x = (10 + 3) * 2 ** 2
-print(x)
+#x = 10 + 3 * 2 ** 2
+#print(x)
+#x = (10 + 3) * 2 ** 2
+#print(x)
 
 
 
