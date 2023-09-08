@@ -1,11 +1,26 @@
-#Learning arithmetic Operations
-print(10 // 3) #if i run it with "/" it gives me a float number. with "//" it gives me an intger
-print(10 % 3) # this gives me the remender of a division it is called "modulis"
-print(10 ** 3)# this known as the power
-x = 10 
-x = x + 3
-x += 3 #the augmented assign operator
+# Learning Operator Precedence
+x = 10 + 3 * 2
 print(x)
+#Below is the order of operations.
+#parenthesis alwas takes priority
+#exponentiation 2 ** 3
+#multiplication or division
+#addition or subtraction
+x = 10 + 3 * 2 ** 2
+print(x)
+x = (10 + 3) * 2 ** 2
+print(x)
+
+
+
+#Learning arithmetic Operations
+#print(10 // 3) #if i run it with "/" it gives me a float number. with "//" it gives me an intger
+#print(10 % 3) # this gives me the remender of a division it is called "modulis"
+#print(10 ** 3)# this known as the power
+#x = 10 
+#x = x + 3
+#x += 3 #the augmented assign operator
+#print(x)
 
 #learning string methods
 #course = 'Python for Beginners'
