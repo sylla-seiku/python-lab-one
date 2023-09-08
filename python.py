@@ -1,5 +1,14 @@
+#Learning arithmetic Operations
+print(10 // 3) #if i run it with "/" it gives me a float number. with "//" it gives me an intger
+print(10 % 3) # this gives me the remender of a division it is called "modulis"
+print(10 ** 3)# this known as the power
+x = 10 
+x = x + 3
+x += 3 #the augmented assign operator
+print(x)
+
 #learning string methods
-course = 'Python for Beginners'
+#course = 'Python for Beginners'
 #print(len(course)) # "len" counts the number of characters we have in a string
 #print(course.upper())
 #print(course.lower())
@@ -7,7 +16,7 @@ course = 'Python for Beginners'
 #print(course.find('P'))
 #print(course.find('o'))
 #print(course.replace('Beginners', 'Absolute Beginners'))
-print('Python' in course) # the "in" is boolean value 
+#print('Python' in course) # the "in" is boolean value 
 
 #learning formated strings
 #first = 'Seiku'
