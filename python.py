@@ -1,9 +1,20 @@
+#learning string methods
+course = 'Python for Beginners'
+#print(len(course)) # "len" counts the number of characters we have in a string
+#print(course.upper())
+#print(course.lower())
+#print(course)
+#print(course.find('P'))
+#print(course.find('o'))
+#print(course.replace('Beginners', 'Absolute Beginners'))
+print('Python' in course) # the "in" is boolean value 
+
 #learning formated strings
-first = 'Seiku'
-last = 'Sillah'
-message = first + ' [' + last + '] is a coder' #this a concatenation string its harad to visualize.
-msg = f'{first} [{last}] is a coder' #this is a formated string much easire to visualize.
-print(msg)
+#first = 'Seiku'
+#last = 'Sillah'
+#message = first + ' [' + last + '] is a coder' #this a concatenation string its harad to visualize.
+#msg = f'{first} [{last}] is a coder' #this is a formated string much easire to visualize.
+#print(msg)
 
 
 #learning about strings.
