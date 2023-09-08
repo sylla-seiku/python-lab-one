@@ -8,7 +8,7 @@ print(round(x)) # this rounds the number
 print(abs(-2.9)) # "abs" Absolute always returns a positive number.
 
 
-'''
+
 # Learning Operator Precedence
 x = 10 + 3 * 2
 print(x)
@@ -95,4 +95,3 @@ print(price)
 #print(' *   * ')
 #print('  * *  ')
 #print('   *   ')
-'''
